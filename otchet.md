@@ -35,7 +35,7 @@
 [Готовый проект]()
 
 Результаты проведенного тестирования:
-![Рис.1 Результат тестирования](https://raw.githubusercontent.com/GachiGucciGhoul/Laboratory_works/master/Lab9/Screenshot/1.PNG)
+![Рис.1 Провеенное тестирование]()
 
 _Рисунок №1 - результаты тестирования_
 
